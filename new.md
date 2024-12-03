@@ -27,3 +27,12 @@ Launch the Trader Live Blotter.
 Select an RFQ and launch the Trader Ticket.
 Click the Buddy Window button in the Trader Ticket.
 Verify that the Buddy Window is displayed and contains the correct data.
+
+## New scenario
+
+I have listed few scenario's for upcoming week
+Trader Live Blotter:
+Verify the Column Re-arrangement
+Verify the Column sorting's
+Verify the Save option in blotter
+Verify the Reset option in blotter
