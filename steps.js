@@ -70,3 +70,14 @@ describe('Trader Live Blotter Tests', () => {
         expect(isBuddyWindowDataCorrect()).to.be.true;
     });
 });
+
+   // Default timeout for all waitFor* commands.
+    waitforTimeout: 10000,
+    //
+    // Default timeout in milliseconds for request
+    // if browser driver or grid doesn't send response
+    connectionRetryTimeout: 120000,
+    //
+    // Default request retries count
+    connectionRetryCount: 3,
+    //
